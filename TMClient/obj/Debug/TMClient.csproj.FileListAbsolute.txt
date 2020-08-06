@@ -1,0 +1,12 @@
+C:\Users\admin\Desktop\TWClient\TWClient\bin\Debug\TWClient.exe
+C:\Users\admin\Desktop\TWClient\TWClient\bin\Debug\TWClient.pdb
+C:\Users\admin\Desktop\TWClient\TWClient\bin\Debug\NetSubSys.pdb
+C:\Users\admin\Desktop\TWClient\TWClient\obj\Debug\TMClient.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\TWClient\TWClient\obj\Debug\TWClient.AddEditSensorForm.resources
+C:\Users\admin\Desktop\TWClient\TWClient\obj\Debug\TWClient.MainWindow.resources
+C:\Users\admin\Desktop\TWClient\TWClient\obj\Debug\TWClient.Properties.Resources.resources
+C:\Users\admin\Desktop\TWClient\TWClient\obj\Debug\TWClient.SettingsForm.resources
+C:\Users\admin\Desktop\TWClient\TWClient\obj\Debug\TMClient.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\TWClient\TWClient\obj\Debug\TMClient.csproj.CopyComplete
+C:\Users\admin\Desktop\TWClient\TWClient\obj\Debug\TWClient.exe
+C:\Users\admin\Desktop\TWClient\TWClient\obj\Debug\TWClient.pdb

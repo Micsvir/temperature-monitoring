@@ -1,0 +1,12 @@
+C:\Users\SMS\Documents\Visual Studio 2008\Projects\TWServer\TWServer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\SMS\Documents\Visual Studio 2008\Projects\TWServer\TWServer\obj\Debug\TWServer.MainWindow.resources
+C:\Users\SMS\Documents\Visual Studio 2008\Projects\TWServer\TWServer\obj\Debug\TWServer.Properties.Resources.resources
+C:\Users\SMS\Documents\Visual Studio 2008\Projects\TWServer\TWServer\obj\Debug\TWServer.csproj.GenerateResource.Cache
+C:\Users\SMS\Documents\Visual Studio 2008\Projects\TWServer\TWServer\bin\Debug\TWServer.exe
+C:\Users\SMS\Documents\Visual Studio 2008\Projects\TWServer\TWServer\bin\Debug\TWServer.pdb
+C:\Users\SMS\Documents\Visual Studio 2008\Projects\TWServer\TWServer\obj\Debug\TWServer.exe
+C:\Users\SMS\Documents\Visual Studio 2008\Projects\TWServer\TWServer\obj\Debug\TWServer.pdb
+C:\Users\SMS\Documents\Visual Studio 2008\Projects\TWServer\TWServer\obj\Debug\TWServer.AddEditSensorForm.resources
+C:\Users\SMS\Documents\Visual Studio 2008\Projects\TWServer\TWServer\bin\Debug\NetSubSys.dll
+C:\Users\SMS\Documents\Visual Studio 2008\Projects\TWServer\TWServer\bin\Debug\NetSubSys.pdb
+C:\Users\SMS\Documents\Visual Studio 2008\Projects\TWServer\TWServer\obj\Debug\TWServer.SettingsForm.resources

@@ -1,0 +1,12 @@
+C:\Users\admin\Desktop\TWServer\TWServer\bin\Debug\TWServer.exe
+C:\Users\admin\Desktop\TWServer\TWServer\bin\Debug\TWServer.pdb
+C:\Users\admin\Desktop\TWServer\TWServer\bin\Debug\NetSubSys.pdb
+C:\Users\admin\Desktop\TWServer\TWServer\obj\Debug\TMServer.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\TWServer\TWServer\obj\Debug\TWServer.AddEditSensorForm.resources
+C:\Users\admin\Desktop\TWServer\TWServer\obj\Debug\TWServer.MainWindow.resources
+C:\Users\admin\Desktop\TWServer\TWServer\obj\Debug\TWServer.Properties.Resources.resources
+C:\Users\admin\Desktop\TWServer\TWServer\obj\Debug\TWServer.SettingsForm.resources
+C:\Users\admin\Desktop\TWServer\TWServer\obj\Debug\TMServer.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\TWServer\TWServer\obj\Debug\TMServer.csproj.CopyComplete
+C:\Users\admin\Desktop\TWServer\TWServer\obj\Debug\TWServer.exe
+C:\Users\admin\Desktop\TWServer\TWServer\obj\Debug\TWServer.pdb
